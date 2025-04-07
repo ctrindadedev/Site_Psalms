@@ -8,9 +8,6 @@ const Header = () => {
       <a className="header__link" href="/">
         <h1>Psalms</h1>
       </a>
-      <a>
-        <h2>ola</h2>
-      </a>
     </div>
   );
 };
